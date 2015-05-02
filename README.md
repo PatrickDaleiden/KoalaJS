@@ -33,7 +33,7 @@ var k = makeKoalaJS();
 ###Add objects to your instance
 ```javascript
 var myObj = {a: 1, b:2, c: true};
-k(myObject)
+k(myObj)
 var otherObj = {b: 3, c: false};
 ```
 
